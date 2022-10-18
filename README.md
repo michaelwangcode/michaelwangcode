@@ -2,13 +2,13 @@
 
 
 #### My LinkedIn Page:
-https://www.linkedin.com/in/michaelwangresume/
+[linkedin.com/in/michaelwangresume](https://www.linkedin.com/in/michaelwangresume/)
 
 #### My LeetCode Profile:
-https://leetcode.com/mwxv/
+[leetcode.com/mwxv](https://leetcode.com/mwxv/)
 
 #### My Rosalind Profile: (LeetCode for Bioinformatics)
-https://rosalind.info/users/michaelw/
+[rosalind.info/users/michaelw](https://rosalind.info/users/michaelw/)
 
 
 
