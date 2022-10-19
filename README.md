@@ -1,7 +1,7 @@
 ### Hello! Welcome to my GitHub page 👋
 
 
-My LinkedIn Page:  
+My LinkedIn Profile:  
 [linkedin.com/in/michaelwangresume](https://www.linkedin.com/in/michaelwangresume/)
 
 My LeetCode Profile:  
