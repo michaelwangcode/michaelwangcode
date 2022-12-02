@@ -7,7 +7,7 @@ My LinkedIn Profile:
 My LeetCode Profile:  
 [leetcode.com/mwxv](https://leetcode.com/mwxv/)
 
-My Rosalind Profile: (LeetCode for Bioinformatics)  
+My Rosalind Profile: (Bioinformatics Problems)  
 [rosalind.info/users/michaelw](https://rosalind.info/users/michaelw/)
 
 
