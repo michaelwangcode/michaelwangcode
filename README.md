@@ -1,6 +1,6 @@
 ### Hello! Welcome to my GitHub page 💫
 
-My Website!
+My Website!  
 [michaelwang.dev](https://michaelwang.dev/)
 
 My LinkedIn Profile:  
